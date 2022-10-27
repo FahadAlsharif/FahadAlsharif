@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **[Larvael ,React Native , Bootstrap]**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at [Coming soon]
 
 - 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **Fahadalsharif20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing](https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing)
+- 📄 Know about my experiences [My Resume] (https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing)
 
 - ⚡ Fun fact **I'm new on github , I love coding so much**
 
