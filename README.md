@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Fahad Alsharif</h1>
 <h3 align="center">I am fullstack software developer</h3>
 
-- 🌱 I’m currently learning **[Larvael ,React Native , Bootstrap]**
+- 🌱 I’m currently learning **[laravel ,React Native , Bootstrap]**
 
-- 👨‍💻 All of my projects are available at [Coming soon]
+- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
 - 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **Fahadalsharif20@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing](https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing)
 
 - ⚡ Fun fact **I'm new on github , I love coding so much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/fahad-alsharif97/](https://www.linkedin.com/in/fahad-alsharif97)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-alsharif97/" height="30" width="40" /></a>
-<a href="https://discord.gg/Fahad Alsharif#7965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahad Alsharif#7965" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahad-alsharif97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-alsharif97" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
