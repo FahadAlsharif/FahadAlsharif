@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **[laravel ,React Native , Bootstrap]**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at [Coming soon ...]
 
 - 💬 Ask me about **Spring Boot**
 
