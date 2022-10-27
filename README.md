@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Alsharif</h1>
 <h3 align="center">I am fullstack software developer</h3>
 
-- 🌱 I’m currently learning **[laravel ,React Native , Bootstrap]**
+- 🌱 I’m currently learning **[Laravel ,React Native , Bootstrap]**
 
 - 👨‍💻 All of my projects are available at : Coming soon ... 
 
