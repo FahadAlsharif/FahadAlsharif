@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Alsharif</h1>
 <h3 align="center">I am fullstack software developer</h3>
 
-- 🌱 I’m currently learning **[Laravel ,React Native , Bootstrap]**
+- 🌱 I’m currently learning **[React Native , Angular]**
 
 - 👨‍💻 All of my projects are available at : Coming soon ... 
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1VebMKgMKG3Bzwjd2_pHFjbj1HHHUuQCM/view?usp=sharing)
 
-- ⚡ Fun fact **I'm new on github , I love coding so much**
+- ⚡ Fun fact **I'm new on github , I love coding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
