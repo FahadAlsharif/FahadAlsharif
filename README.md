@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fahad Alsharif</h1>
 <h3 align="center">I am fullstack software developer</h3>
 
-- 🌱 I’m currently learning **[React Native , Angular]**
+- 🌱 I’m currently learning **[Angular]**
 
 - 👨‍💻 All of my projects are available at : Coming soon ... 
 
-- 💬 Ask me about **Spring Boot**
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **Fahadalsharif20@gmail.com**
 
