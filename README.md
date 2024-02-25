@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Alsharif</h1>
-<h3 align="center">I am fullstack software developer</h3>
+<h3 align="center">I am Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **[Angular]**
 
