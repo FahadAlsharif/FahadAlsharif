@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kgRaOE39SM5mgJn2HMc8w2TsW2lFYppE/view?usp=sharing)
 
-- ⚡ Fun fact **I'm new on github , I love coding **
+- ⚡ Fun fact **I love coding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
